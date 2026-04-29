@@ -3,20 +3,77 @@
 <p align="center">
 ## 🚀 Atividades Desenvolvidas
 
-### 1. Contador Progressivo
-O programa solicita um número inteiro ao usuário e realiza uma contagem crescente, partindo de 1 até o número informado. Útil para entender o funcionamento básico de incrementos em laços de repetição.
+# 🚀 JavaScript: Lógica de Programação e Estruturas de Repetição
 
-### 2. Somatório de Valores
-Uma aplicação que solicita 10 números inteiros de forma consecutiva. Ao final das inserções, o sistema exibe o resultado da soma de todos os valores digitados, utilizando o conceito de **acumulador**.
+Este repositório contém a resolução de uma série de desafios práticos focados no desenvolvimento da lógica de programação utilizando **JavaScript**. O objetivo principal foi aplicar estruturas de controle de repetição para otimizar algoritmos e consolidar o fluxo de execução de dados, conforme solicitado pelo professor Jeff.
 
-### 3. Gerador de Tabuada
-O usuário informa um número e o programa gera automaticamente a tabuada de 1 a 10. Demonstra a aplicação de operações aritméticas dentro de um loop.
+## 📋 Sobre o Projeto
 
-### 4. Cálculo de Média Escolar
-O programa recebe 5 notas (valores reais/double), calcula a soma total e, em seguida, apresenta a média aritmética simples. Ideal para praticar manipulação de tipos de dados flutuantes.
+As atividades desenvolvidas visam solucionar problemas matemáticos e de manipulação de dados simples, garantindo que o código seja limpo, funcional e bem estruturado.
 
-### 5. Filtro de Números Pares em Intervalo
-Dada uma faixa de valores (início e fim), o programa identifica e exibe apenas os números pares contidos nesse intervalo. Utiliza o operador de módulo (`%`) para verificar a divisibilidade por 2.
+### Resultados Alcançados:
+* **Domínio de Loops:** Implementação eficiente de estruturas como `for` e `while`.
+* **Interatividade:** Programas que recebem inputs do utilizador e processam resultados em tempo real.
+* **Versionamento:** Todo o projeto foi gerido via **Git**, com commits organizados para cada etapa da resolução.
+* **Qualidade Técnica:** Algoritmos testados e validados para garantir a ausência de erros de execução.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **JavaScript (Node.js)**: Linguagem principal para o desenvolvimento da lógica.
+* **Git & GitHub**: Controlo de versão e alojamento do código.
+* **Flowgorithm**: Utilizado para o planeamento do fluxo lógico antes da codificação.
+
+---
+
+## 📝 Exercícios Implementados
+
+Abaixo, os programas contidos neste repositório:
+
+1.  **Contagem Progressiva:** Recebe um número e exibe a sequência de 1 até o valor informado.
+2.  **Soma de Inteiros:** Solicita 10 números ao utilizador e apresenta a soma total ao final.
+3.  **Gerador de Tabuada:** Calcula e exibe a tabuada (1 a 10) de um número fornecido.
+4.  **Média Académica:** Solicita 5 notas e realiza o cálculo da média aritmética.
+5.  **Filtro de Pares:** Identifica e exibe todos os números pares dentro de um intervalo definido pelo utilizador.
+
+---
+
+## 🚀 Como Executar o Projeto
+
+Para testar os scripts localmente, precisará de ter o [Node.js](https://nodejs.org/) instalado.
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/pedrooSoeiro/La-os-de-repeti-o-FOR-atividade-do-proff-JEFF.git](https://github.com/pedrooSoeiro/La-os-de-repeti-o-FOR-atividade-do-proff-JEFF.git)
+    ```
+
+2.  **Aceda à pasta do projeto:**
+    ```bash
+    cd La-os-de-repeti-o-FOR-atividade-do-proff-JEFF
+    ```
+
+3.  **Instale as dependências (caso utilize readline-sync):**
+    ```bash
+    npm install readline-sync
+    ```
+
+4.  **Execute os arquivos desejados:**
+    ```bash
+    node exercicio01.js
+    ```
+
+---
+
+## 🏗️ Estrutura de Arquivos
+
+```text
+├── exercicio01.js
+├── exercicio02.js
+├── exercicio03.js
+├── exercicio04.js
+├── exercicio05.js
+└── README.md
 
 
 <img width="498" height="374" alt="Tag1GIF" src="https://github.com/user-attachments/assets/9d99e5e4-ed0e-43c9-9c20-f6641128b0bc" />
