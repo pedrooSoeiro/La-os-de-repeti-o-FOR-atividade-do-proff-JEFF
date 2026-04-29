@@ -2,9 +2,6 @@
 <p align="center">
 <p align="center">
 
-atividade com FOR 
-# Exercícios de Lógica de Programação - Estruturas de Repetição
-
 Este repositório contém uma série de exercícios fundamentais para o treino de estruturas de repetição (`for`, `while`) e lógica básica.
 
 ## 🚀 Atividades Desenvolvidas
