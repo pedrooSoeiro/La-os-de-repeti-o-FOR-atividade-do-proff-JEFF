@@ -8,6 +8,11 @@ let numero1 = Number(prompt("Digite o primeiro numero"))
 let numero2 = Number(prompt("Agora digite o segundo"))
 let resultado = ""
 
+if (numero1>numero2){
+    let temp = numero1;
+    numero1 = [numero2]
+    numero2 = [numero1]
+}
 for (let i = numero1; i<=numero2; i++){
     if(i % 2===0){
         resultado +=i + " "
