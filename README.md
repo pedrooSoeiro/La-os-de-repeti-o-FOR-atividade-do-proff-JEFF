@@ -76,5 +76,6 @@ Para testar os scripts localmente, precisará de ter o [Node.js](https://nodejs.
 └── README.md
 
 
-<img width="498" height="374" alt="Tag1GIF" src="https://github.com/user-attachments/assets/9d99e5e4-ed0e-43c9-9c20-f6641128b0bc" />
 
+
+<img width="480" height="270" alt="PokemonCharizardGIF" src="https://github.com/user-attachments/assets/c27ce500-3b55-4750-b1fd-4e8b16327866" />
