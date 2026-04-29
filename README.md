@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10BCF7&height=180&section=header&text=Atividade+com+FOR&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 <p align="center">
 <p align="center">
-## 🚀 Atividades Desenvolvidas
 
 # 🚀 JavaScript: Lógica de Programação e Estruturas de Repetição
+<img width="480" height="270" alt="PokemonCharizardGIF" src="https://github.com/user-attachments/assets/c27ce500-3b55-4750-b1fd-4e8b16327866" />
 
 Este repositório contém a resolução de uma série de desafios práticos focados no desenvolvimento da lógica de programação utilizando **JavaScript**. O objetivo principal foi aplicar estruturas de controle de repetição para otimizar algoritmos e consolidar o fluxo de execução de dados, conforme solicitado pelo professor Jeff.
 
@@ -74,8 +74,3 @@ Para testar os scripts localmente, precisará de ter o [Node.js](https://nodejs.
 ├── exercicio04.js
 ├── exercicio05.js
 └── README.md
-
-
-
-
-<img width="480" height="270" alt="PokemonCharizardGIF" src="https://github.com/user-attachments/assets/c27ce500-3b55-4750-b1fd-4e8b16327866" />
