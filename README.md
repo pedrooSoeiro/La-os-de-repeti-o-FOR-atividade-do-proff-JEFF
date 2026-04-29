@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10BCF7&height=180&section=header&text=Atividade+com+FOR&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 <p align="center">
 <p align="center">
-
 Este repositório contém uma série de exercícios fundamentais para o treino de estruturas de repetição (`for`, `while`) e lógica básica.
 
 ## 🚀 Atividades Desenvolvidas
