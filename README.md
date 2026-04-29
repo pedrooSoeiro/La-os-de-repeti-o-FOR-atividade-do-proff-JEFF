@@ -23,3 +23,5 @@ Dada uma faixa de valores (início e fim), o programa identifica e exibe apenas 
 
 ---
 **Dica:** Para rodar os códigos, certifique-se de ter o SDK da linguagem escolhida instalado ou utilize um compilador online.
+<img width="498" height="374" alt="Tag1GIF" src="https://github.com/user-attachments/assets/9d99e5e4-ed0e-43c9-9c20-f6641128b0bc" />
+
